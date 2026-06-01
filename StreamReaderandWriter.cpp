@@ -19,5 +19,7 @@ int main()
 
         getline(cin, baris);
 
+        if (baris == "q") break;
+
     }
 }

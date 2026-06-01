@@ -1,0 +1,2 @@
+cd "c:\Users\asusa\StreamReaderandWriter\" ; if ($?) { g++ ioFileWithPath.cpp -o ioFileWithPath } ; if ($?) { .\ioFileWithPath }
+clear
